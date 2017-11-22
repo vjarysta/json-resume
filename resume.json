@@ -1,0 +1,99 @@
+{
+	"basics": {
+		"name": "Valentin Jarysta",
+		"label": "Front-end developer",
+		"picture": "picture.jpeg",
+		"email": "vjarysta@gmail.com",
+		"phone": "+33 (0)6 26 51 00 50",
+		"summary": "Enthusiast web developer.",
+		"location": {
+			"address": "36, rue Saint Henri",
+			"postalCode": "59110",
+			"city": "La Madeleine",
+			"countryCode": "FR",
+			"region": "Nord"
+		},
+		"profiles": [{
+			"network": "Twitter",
+			"username": "vjarysta",
+			"url": "http://twitter.com/vjarysta"
+		}]
+	},
+	"work": [{
+		"company": "Temelio",
+		"position": "Front-end developer",
+		"website": "http://temelio.com/",
+		"startDate": "2016-11-07",
+		"endDate": "Present",
+		"summary": "Description...",
+		"highlights": [
+			"Angular.js",
+			"Python3",
+			"PHP"
+		]
+	}, {
+		"company": "Kostango",
+		"position": "Front-end developer",
+		"website": "https://kostango.com/",
+		"startDate": "2016-04-11",
+		"endDate": "2014-11-28",
+		"summary": "Description...",
+		"highlights": [
+			"Angular.js",
+			"Django REST"
+		]
+	}, {
+		"company": "Pickwave",
+		"position": "Full-stack web developer",
+		"startDate": "2014-09-08",
+		"endDate": "2014-12-19",
+		"summary": "Description...",
+		"highlights": [
+			"MongoDB",
+			"Express",
+			"Angular.js",
+			"Node.js"
+		]
+	}],
+	"education": [{
+		"institution": "42",
+		"area": "Computer Science",
+		"startDate": "2013-11-04",
+		"endDate": "2016-11-04",
+		"courses": [
+			"Algorithmics",
+			"Graphics",
+			"UNIX"
+		]
+	}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Master",
+		"keywords": [
+			"JavaScript",
+			"HTML",
+			"CSS"
+		]
+	}],
+	"languages": [{
+		"name": "French",
+		"level": "Native speaker"
+	}, {
+		"name": "English",
+		"level": "Intermediate"
+	}],
+	"interests": [{
+		"name": "Music",
+		"keywords": [
+			"Saxophone",
+			"Guitar",
+			"Keyboard"
+		]
+	}, {
+		"name": "Domotics",
+		"keywords": [
+			"Raspberry PI",
+			"Arduino"
+		]
+	}]
+}
