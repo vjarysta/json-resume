@@ -28,31 +28,57 @@
 		"summary": "Description...",
 		"highlights": [
 			"Angular.js",
-			"Python3",
-			"PHP"
+			"HTML",
+			"CSS",
+			"Python 3",
+			"PHP",
+			"Git",
+			"Gulp",
+			"Npm",
+			"Scrum",
+			"Jira"
 		]
 	}, {
 		"company": "Kostango",
-		"position": "Front-end developer",
+		"position": "Front-end developer (internship)",
 		"website": "https://kostango.com/",
 		"startDate": "2016-04-11",
 		"endDate": "2014-11-28",
-		"summary": "Description...",
+		"summary": "Second professional experience in a startup, in which I mostly improved my Angular.js skills. In charge of all the front-end part of the platform, I also developed back-end modules, using Django REST and PostgreSQL. The sysadmin part was also one of my roles.",
 		"highlights": [
 			"Angular.js",
-			"Django REST"
+			"HTML",
+			"CSS",
+			"Bootstrap",
+			"Django REST",
+			"Git",
+			"Grunt",
+			"Npm",
+			"Bower",
+			"Nginx",
+			"Scrum",
+			"Pivotal Tracker"
 		]
 	}, {
 		"company": "Pickwave",
-		"position": "Full-stack web developer",
+		"position": "Full-stack web developer (internship)",
 		"startDate": "2014-09-08",
 		"endDate": "2014-12-19",
-		"summary": "Description...",
+		"summary": "My internship in this company was my first professional experience, in which I learned JavaScript technologies. In a team of 3 developers, I participated in the development of the platform from scratch, which was a professional social network, for the cinema world. I had the opportunity to learn JavaScript from the MEAN.JS stack, and improve my Angular.js skills.",
 		"highlights": [
 			"MongoDB",
 			"Express",
 			"Angular.js",
-			"Node.js"
+			"Node.js",
+			"HTML",
+			"CSS",
+			"Git",
+			"Grunt",
+			"Npm",
+			"Bower",
+			"Bootstrap",
+			"Scrum",
+			"Pivotal Tracker"
 		]
 	}],
 	"education": [{
