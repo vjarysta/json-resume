@@ -7,9 +7,9 @@
 		"phone": "+33 (0)6 26 51 00 50",
 		"summary": "Enthusiast web developer.",
 		"location": {
-			"address": "36, rue Saint Henri",
-			"postalCode": "59110",
-			"city": "La Madeleine",
+			"address": "1, rue Barberousse",
+			"postalCode": "59800",
+			"city": "Lille",
 			"countryCode": "FR",
 			"region": "Nord"
 		},
@@ -20,11 +20,30 @@
 		}]
 	},
 	"work": [{
+		"company": "SFEIR",
+		"position": "Front-end developer",
+		"website": "https://www.sfeir.com/",
+		"startDate": "2018-02-05",
+		"endDate": "2019-04-01",
+		"summary": "I improved my code quality at SFEIR, in different ways. I was introduced to Test-Driven Development and instantly loved it. Behavior-Driven Development was also mandatory for every feature.",
+		"highlights": [
+			"Vue.js",
+			"React.js",
+			"Jest",
+			"Cucumber.js",
+			"Webpack",
+			"HTML",
+			"CSS",
+			"Git",
+			"Npm",
+			"Agile"
+		]
+	}, {
 		"company": "Temelio",
 		"position": "Front-end developer",
 		"website": "http://temelio.com/",
 		"startDate": "2016-11-07",
-		"endDate": "Present",
+		"endDate": "2018-01-26",
 		"summary": "Working at Temelio helped me gain rigor. Startup with around twenty employees, they gave me the opportunity to learn processes and tools used by most of the tech companies (Jira, Git Flow, code reviews). My work first was to add new features to the onboarding platform, then diversified: I had the opportunity to code in Python, to automate the generation and sending of a detailed PDF report sent weekly to clients, in PHP for the partners synchronizations (tracking pixels).",
 		"highlights": [
 			"Angular.js",
@@ -35,7 +54,7 @@
 			"Git",
 			"Gulp",
 			"Npm",
-			"Scrum",
+			"Agile",
 			"Jira"
 		]
 	}, {
@@ -56,7 +75,7 @@
 			"Npm",
 			"Bower",
 			"Nginx",
-			"Scrum",
+			"Agile",
 			"Pivotal Tracker"
 		]
 	}, {
@@ -77,7 +96,7 @@
 			"Npm",
 			"Bower",
 			"Bootstrap",
-			"Scrum",
+			"Agile",
 			"Pivotal Tracker"
 		]
 	}],
@@ -94,9 +113,12 @@
 	}],
 	"skills": [{
 		"name": "Web Development",
-		"level": "Master",
+		"level": "Intermediate",
 		"keywords": [
 			"JavaScript",
+			"Angular",
+			"React.js",
+			"Vue.js",
 			"HTML",
 			"CSS"
 		]
