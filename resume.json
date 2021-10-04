@@ -7,9 +7,9 @@
 		"phone": "+33 (0)6 26 51 00 50",
 		"summary": "Enthusiast web developer.",
 		"location": {
-			"address": "1, rue Barberousse",
-			"postalCode": "59800",
-			"city": "Lille",
+			"address": "36 rue Saint Henri",
+			"postalCode": "59110",
+			"city": "La Madeleine",
 			"countryCode": "FR",
 			"region": "Nord"
 		},
@@ -20,11 +20,30 @@
 		}]
 	},
 	"work": [{
+		"company": "Critizr",
+		"position": "Front-end developer",
+		"website": "https://critizr.com/",
+		"startDate": "2020-03-05",
+		"endDate": "2022-01-15",
+		"summary": "At Critizr I had the opportunity to develop a beautiful product that was used by lots of users. I worked with UX designers and was in charge of developing the backoffice (around 10k unique users per day).",
+		"highlights": [
+			"React.js",
+			"Jest",
+			"Webpack",
+			"HTML",
+			"Sass",
+			"Git",
+			"Npm",
+			"Agile",
+			"Asana",
+			"Eslint"
+		]
+	}, {
 		"company": "SFEIR",
 		"position": "Front-end developer",
 		"website": "https://www.sfeir.com/",
 		"startDate": "2018-02-05",
-		"endDate": "2019-04-01",
+		"endDate": "2020-03-06",
 		"summary": "I improved my code quality at SFEIR, in different ways. I was introduced to Test-Driven Development and instantly loved it. Behavior-Driven Development was also mandatory for every feature.",
 		"highlights": [
 			"Vue.js",
@@ -135,7 +154,8 @@
 		"keywords": [
 			"Saxophone",
 			"Guitar",
-			"Keyboard"
+			"Keyboard",
+			"Beatmaking"
 		]
 	}, {
 		"name": "Domotics",
